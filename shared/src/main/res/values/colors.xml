@@ -1,0 +1,25 @@
+<?xml version="1.0" encoding="utf-8"?>
+
+<resources>
+    <color name="grey_800">#424242</color>
+    <color name="grey_600">#747474</color>
+    <color name="spacer_grey">#e0e0e0</color>
+    <color name="white_90">#e6ffffff</color>
+
+    <color name="blue">#00a6f0</color>
+    <color name="darkblue">#0085cd</color>
+    <color name="teal">#00f0c4</color>
+    <!-- Lunch -->
+    <color name="yellow">#efd700</color>
+    <!-- Stage -->
+    <color name="violet">#a700ef</color>
+    <!-- Charge -->
+    <color name="dark_blue">#0077EF</color>
+    <!-- Ceremony -->
+    <color name="red">#ef4700</color>
+    <!-- Accomodation -->
+    <color name="orange">#efab00</color>
+    <!-- Non-stage -->
+    <color name="grey">#b7b7b7</color>
+    <color name="white">#fff</color>
+</resources>
