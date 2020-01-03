@@ -1,3 +1,9 @@
+Electric Marathon
+======================
+
+A fork of Google I/O 2018 app to practice new technologies and libraries
+
+
 Google I/O Android App
 ======================
 
