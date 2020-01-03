@@ -3,6 +3,8 @@ Electric Marathon
 
 A fork of Google I/O 2018 app to practice new technologies and libraries
 
+[Google Photos link for screenshots](https://photos.google.com/album/AF1QipNrAGLfNOeEiiEkXfbpuLAVIY9Mmrhulrl4PA2q)
+
 
 Google I/O Android App
 ======================
